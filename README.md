@@ -1,8 +1,11 @@
-# Snake
+<h1 align="center">Terminal Snake</h1>
+<img src="https://cloud-pjvzscu3s-hack-club-bot.vercel.app/0screenshot_2024-08-22_at_6.06.21_pm.png" width="auto" height="auto" alt="Debug menu">
 
+<div align="center">
 A ncurses snake game
 
-This is my first time using ncurses, so please don't be too harsh UwU
+This is my first time using ncurses (finally allocated a bit of time for it), so please don't be too harsh please.
+</div>
 
 # Building
 Dependencies: ncurses, git and cmake
